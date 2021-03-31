@@ -1,2 +1,2 @@
 # dragDirectives
-拖拽活动节点
+拖拽活动
